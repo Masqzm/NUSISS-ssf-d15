@@ -1,0 +1,13 @@
+table {
+    border: 1px solid;
+    width: 10%;
+}
+table td, table th {
+    border: 1px solid;
+    text-align: left;
+}
+
+thead {
+    font-weight: bold;
+    background-color: lightblue;
+}
